@@ -1,11 +1,11 @@
-🕵️ Code de conduite du joueur
+## Code de conduite du joueur
 L’Affaire du Masque Brisé
 
-🎯 Objectif
+## Objectif
 Votre mission est de retrouver le masque volé et de désigner le véritable coupable.
 Chaque choix compte : interrogez, fouillez, analysez… et méfiez-vous des fausses pistes.
-
-⏳ Gestion des tours
+git
+## Gestion des tours
 
 Vous disposez de 6 tours maximum pour interroger, fouiller ou explorer.
 
@@ -13,13 +13,13 @@ Chaque action (question, déplacement, fouille) consomme 1 tour.
 
 À la fin des 6 tours, vous devez obligatoirement passer à la confrontation finale.
 
-🔍 Collecte d’indices
+## Collecte d’indices
 
 3 indices solides OU 1 aveu confirmé sont nécessaires pour appuyer votre accusation.
 
 Sans cela, votre accusation sera considérée comme faible → mauvaise fin.
 
-🗄️ Option spéciale : Fouille
+## Option spéciale : Fouille
 
 Vous pouvez fouiller les affaires d’un suspect.
 
@@ -29,7 +29,7 @@ Vous pouvez fouiller les affaires d’un suspect.
 
 Une fouille coûte 1 tour.
 
-🎒 Inventaire
+## Inventaire
 
 Avant de commencer, choisissez 1 objet unique dans votre bureau :
 
@@ -41,7 +41,7 @@ Kit d’empreintes → analyser les traces et révéler des auteurs cachés.
 
 👉 Notez votre objet : certains choix ne seront accessibles que si vous l’avez.
 
-🧠 Tests logiques
+## Tests logiques
 
 Avec la lampe torche, vous pouvez explorer la cave ou les recoins obscurs du musée.
 
@@ -51,7 +51,7 @@ Si vous visitez la salle de sécurité + le bureau du gardien, vous débloquez u
 
 Si vous terminez avec moins de 3 points, vous échouez automatiquement à la confrontation finale.
 
-🏆 Points
+## Points
 
 +1 point → chaque indice trouvé
 
@@ -65,7 +65,7 @@ Si vous terminez avec moins de 3 points, vous échouez automatiquement à la con
 
 Score maximal : 10 points.
 
-🔚 Fins possibles
+## Fins possibles
 
 Bonne fin : vous accusez le bon coupable avec assez de preuves et un score ≥ 7.
 
