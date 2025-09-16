@@ -1,4 +1,4 @@
-# Vous avez choisi la lampe de torche 🔍.
+# Vous avez choisi le kit d'empreintes 🥽.
 
 ## Que faites-vous en premier ?
 

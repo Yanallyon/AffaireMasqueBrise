@@ -1,4 +1,4 @@
-# Vous avez choisi la lampe de torche 🔍.
+# Vous avez choisi lle bloc note 🗒️.
 
 ## Que faites-vous en premier ?
 

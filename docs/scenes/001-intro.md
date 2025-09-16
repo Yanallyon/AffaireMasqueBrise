@@ -1,4 +1,4 @@
-# Scène 001 – L’appel et les préparatifs
+# L’appel et les préparatifs
 
 Il est 23h17 quand le téléphone de John Doe sonne.
 À l’autre bout du fil, une voix paniquée :
@@ -15,5 +15,5 @@ Chaque déplacement, fouille ou interrogation coûte **1 tour**.
 Sélectionnez *un objet* parmis la liste suivante :
 
 - ▶️ [**Lampe torche**](./002-lampe_torche.md) → explorer les zones sombres. 🔍
-- ▶️ **Carnet d’indices** → noter les incohérences et résoudre des énigmes. 🗒️
-- ▶️ **Kit d’empreintes** → analyser des traces suspectes. 🥽
+- ▶️ [**Carnet d’indices**](./003-carnet_indice.md) → noter les incohérences et résoudre des énigmes. 🗒️
+- ▶️ [**Kit d’empreintes**](004-kit_empreintes.md) → analyser des traces suspectes. 🥽
