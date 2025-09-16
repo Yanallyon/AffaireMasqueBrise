@@ -6,4 +6,4 @@
 
 ---
 
-### ▶️ [RESTART](./docs/scenes/001-intro.md)
+### ▶️ [RESTART](./001-intro.md)
