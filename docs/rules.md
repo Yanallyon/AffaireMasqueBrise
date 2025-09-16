@@ -1,6 +1,5 @@
-Règles du jeu – L’affaire du masque brisé
-Objectif
-Accumuler des indices et choisir le bon chemin pour retrouver le masque volé et désigner le coupable.
+Règles du jeu – 🕵️ L’Affaire du Masque Brisé
+Objectif : Accumuler des indices et choisissez le bon chemin pour retrouver le masque volé et désigner le coupable.
 
 ---
 
