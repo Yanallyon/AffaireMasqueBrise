@@ -28,7 +28,7 @@ La vérité n'attend que vous… ou presque.
 
 ---
 
-### ▶️ [Commencer l’enquête](./jeu/debut.md)
+### ▶️ [Commencer l’enquête](./doc/scenes/001-intro.md)
 
 ---
 
