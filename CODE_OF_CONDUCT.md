@@ -1,7 +1,7 @@
 🕵️ Code de conduite du joueur
 L’Affaire du Masque Brisé
-🎯 Objectif
 
+🎯 Objectif
 Votre mission est de retrouver le masque volé et de désigner le véritable coupable.
 Chaque choix compte : interrogez, fouillez, analysez… et méfiez-vous des fausses pistes.
 
