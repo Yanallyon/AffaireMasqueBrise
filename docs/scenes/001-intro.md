@@ -14,6 +14,6 @@ Chaque déplacement, fouille ou interrogation coûte **1 tour**.
 
 Sélectionnez *un objet* parmis la liste suivante :
 
-- ▶️ [**Lampe torche**](./002-lampe_torche.md) → explorer les zones sombres.
-- ▶️ **Carnet d’indices** → noter les incohérences et résoudre des énigmes.
-- ▶️ **Kit d’empreintes** → analyser des traces suspectes.
+- ▶️ [**Lampe torche**](./002-lampe_torche.md) → explorer les zones sombres. 🔍
+- ▶️ **Carnet d’indices** → noter les incohérences et résoudre des énigmes. 🗒️
+- ▶️ **Kit d’empreintes** → analyser des traces suspectes. 🥽
